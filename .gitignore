@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Experiment outputs
+*.out
+*.dat
+*.csv
+*.tsv
+*.json
+*.pkl
+*.h5
+*.hdf5
+
+# Figures and plots (optional)
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Latex build files (if you compile papers)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Icon?

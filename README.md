@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15266124.svg)](https://doi.org/10.5281/zenodo.15266124)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15286840.svg)](https://doi.org/10.5281/zenodo.15286840)
 ![Topics: quantum-circuit, functional-cell, feedback, structure-response, PiTer](https://img.shields.io/badge/topics-quantum--circuit%2C%20functional--cell%2C%20feedback%2C%20structure--response%2C%20PiTer-blue)
 
 # QFM-CELL-SERIES

@@ -1,0 +1,4 @@
+QFM-CELL-A.4b — Cosine Similarity Log
+-----------------------------
+Run 1 vs Run 2: 0.9991
+Run 2 vs Run 3: 0.9991

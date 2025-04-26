@@ -1,0 +1,8 @@
+📊 Shannon Entropy per Repeat:
+Repeat 1x: 1.6252
+Repeat 2x: 1.1084
+Repeat 3x: 1.5580
+
+📊 Cosine Similarity Between Repeats:
+Repeat 1x vs Repeat 2x: 0.7364
+Repeat 2x vs Repeat 3x: 0.4943

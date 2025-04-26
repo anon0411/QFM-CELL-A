@@ -1,0 +1,4 @@
+Branching Input: Cosine Similarity Log
+------------------------
+|0⟩ vs |+⟩: 0.7153
+|+⟩ vs |1⟩: 0.6988

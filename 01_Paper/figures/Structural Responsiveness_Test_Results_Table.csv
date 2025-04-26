@@ -1,0 +1,9 @@
+experiment,H_before,H_after,cos_sim_before,cos_sim_after,Structural_Responsiveness
+A.1 (기본구조반복),0.9999,0.9996,0.9999,0.9996,False
+A.1_01 (구조분화유도),0.9999,0.9982,0.9999,0.998,False
+A.2 (조건분기유도),0.9999,0.9975,0.9998,0.9972,False
+A.2-NU (조건분기-비의도형),0.9999,0.9992,0.9998,0.999,False
+A.3 (분기구조반복실행),0.9999,0.9995,0.9999,0.9997,False
+A.4a (H-X-Measure),0.9998,0.9998,0.9999,0.9994,False
+A.4b (H-Z-Measure),0.9998,0.9974,0.9999,0.9991,False
+A.4c (H-Barrier-Measure),0.9998,0.9999,0.9999,0.9995,False

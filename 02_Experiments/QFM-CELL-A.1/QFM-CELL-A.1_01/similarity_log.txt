@@ -1,0 +1,4 @@
+유사도 로그
+------------
+Case A: Baseline vs Case B: Barrier: 0.9973
+Case B: Barrier vs Case C: Z(π/2) Inserted: 0.6061
